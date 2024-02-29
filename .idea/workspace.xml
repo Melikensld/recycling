@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbd248c7-e119-40a2-a11d-f56d15deb809" name="Changes" comment="" />
+    <list default="true" id="fbd248c7-e119-40a2-a11d-f56d15deb809" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recyclingfrontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/recyclingfrontend/src/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +59,7 @@
     "WebServerToolWindowFactoryState": "false",
     "android.gradle.sync.needed": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/wwwme/recycling-platform",
+    "last_opened_file_path": "C:/Users/wwwme/OneDrive/Belgeler/GitHub/recycling",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -86,6 +90,7 @@
       <workItem from="1707404629061" duration="10000" />
       <workItem from="1707404713826" duration="104000" />
       <workItem from="1707404825562" duration="6068000" />
+      <workItem from="1709229223331" duration="80000" />
     </task>
     <servers />
   </component>
